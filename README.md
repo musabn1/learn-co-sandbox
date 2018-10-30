@@ -1,11 +1,29 @@
-Hi! 👋
+<p>Lorem ipsum</p>
 
-You've opened the IDE Sandbox. 🎉
+p {
+  color: red;
+}
 
-The Sandbox is an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code when you're not working on a "lab" (labs open the IDE In Browser).
+.thick {
+  font-weight:
+  bold;
+}
+<span
+class ="thick">I'im thick</span>
 
-The work you do in the Sandbox will be saved from lesson to lesson, and is automatically saved on your behalf to a repository in your GitHub account called `learn-co-sandbox`.
-
-Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
-
-To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+.thick{
+  font-weight:
+  color:red;
+  }
+  
+  <p class = "thick alert">warning...</p>
+  
+  #box{
+    background:
+    blue;
+    }
+    
+    <div id ="box">I'm a box</div>
+    
+  }
+}
